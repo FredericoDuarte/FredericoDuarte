@@ -1,0 +1,28 @@
+Tags HTML: 
+
+<!DOCTYPE html> - Diz para o navegador que estou usando a ultima versão disponivel do HTML
+
+<meta charset="UTF-8"> - Diz para o navegador mostrar a acentuação do portugues 
+
+<title></title> - Mostrar a aba do navegador com o nome da minha escolha
+
+<html></html> - Como se fosse a MAIN (Corpo principal) / <html lang="pt-br"> - Pagina em portugues
+
+<head></head> - Informação que você quer passar para o navegador
+
+<body></body> - Conteúdo que você quer exibir no navegador
+
+<h1></h1> - Header (Titulo)
+
+<p></p> - Paragrafo
+
+<strong></strong> - Destaca a frase (deixa em negrito)
+
+<em></em> - Deixa em Italico
+
+CSS: 
+
+style = "font-size: 20px" - dizendo que quero 20 pixels de tamanho agora
+style - "text-align: center" - Alinhando texto selecionado ao centro 
+
+
