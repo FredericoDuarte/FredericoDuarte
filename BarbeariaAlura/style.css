@@ -49,9 +49,21 @@ ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
-    margin-right: 15%;
+    margin-right: 20%;
 }
 
 .imagemBeneficios {
-    width: 50%;
+    width: 40%;
+}
+
+footer {
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 40px;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 15px;
+    margin: 20px;
 }
