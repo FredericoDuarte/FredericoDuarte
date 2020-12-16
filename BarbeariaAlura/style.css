@@ -1,59 +1,85 @@
-/* Qualquer Pagina que eu quiser que tenham os estilos desse arquivo é so eu fazer o link , facilitando o trabalho */
-
-body {
-    background: #CCCCCC;
-    margin: 0;
+header {
+    background: #BBBBBB;
+    padding: 20px 0;
 }
 
-#banner {
-    width: 100%;
-    
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
 }
 
-.principal {
-    background: #CCCCCC;
-    padding: 30px;
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
 }
 
-.titulo-principal {
-    text-align: center;
-    padding-left: 20px;
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
 }
 
-.titulo-centralizado {
-    text-align: center;
+nav a {
+    text-transform: uppercase;    /* Transformar Texto em MAIUSCULO */
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
 }
 
-p {   /* Estou dizendo que todos os paragrafos estaram com a propriedade do style text-align  */
-    text-align: center;
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+} 
+
+
+.produtos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px;
 }
 
-#missao {
-    font-size: 20px;
-}
-
-em strong {
-    color: red;
-}
-
-.itens {
-    font-style: italic;
-}
-
-.beneficios {
-    background: #FFFFFF;
-    padding: 20px;
-}
-
-ul {
+.produtos li {
     display: inline-block;
+    text-align: center;
+    width: 30%;
     vertical-align: top;
-    width: 20%;
-    margin-right: 20%;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    transition: 1s;
 }
 
-.imagemBeneficios {
-    width: 40%;
+.produtos li:hover {
+    border-color: #C78C19;
+}
+
+.produtos li:active {
+    border-color: #088C19;
+}
+
+.produtos li:hover h2 {
+    font-size: 34px;
+}
+
+.produtos h2 {
+    font-size: 30px;
+    font-weight: bold;
+    transition: 1s;
+}
+
+.produto-descricao {
+    font-size: 18px;
+
+}
+
+.produto-preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
 }
 
 footer {
@@ -67,3 +93,27 @@ footer {
     font-size: 15px;
     margin: 20px;
 }
+
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
+form {
+    margin: 40px 0;
+}
+
+form label {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+form input {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+
