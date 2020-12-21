@@ -1,0 +1,101 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background: #CCCCCC;
+}
+
+.fotos {
+    display: flex;
+    vertical-align: center;
+    align-items: center;
+}
+
+.banner {
+    width: 100%;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1 {
+    width: 150px;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;    /* Transformar Texto em MAIUSCULO */
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.titulo-principal {
+    text-align: center;
+    font-size: 3em;   /* Siginifica que é 2 x o tamanho da fonte base (15px)  */
+    margin: 0 0 1em;
+    clear: left;
+    font-family: 'Dancing Script', cursive;
+}
+
+.principal {
+    padding: 3em 0;
+    background: #FEFEFE;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.principal p {
+    margin: 0 0 1em;
+    font-size: 1.3em;
+}
+
+#amor, #missao, #descricao {
+    text-align: center;
+}
+
+.principal b {
+    font-weight: bold;
+}
+
+.principal strong {
+    font-weight: bold;
+}
+
+.principal em {
+    font-style: italic;
+}
+
+.mapa {
+    padding: 3em 0;
+    background: linear-gradient(#FEFEFE, #888888);
+}
+
+.mapa-conteudo {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.mapa p {
+    margin: 0 0 2em;
+    text-align: center;
+}
