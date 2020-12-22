@@ -3,8 +3,17 @@ body {
 }
 
 header {
-    background: #CCCCCC;
+    background: #F5F5F5;
 }
+
+.foto-principal {
+    height: calc(100vh - 153px);
+    background-image: url("./img/LogoCinza.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}  
 
 .fotos {
     display: flex;
@@ -25,15 +34,31 @@ h1 {
 }
 
 .caixa {
-    position: relative;
     width: 940px;
     margin: 0 auto;
 }
 
-nav {
-    position: absolute;
-    top: 110px;
-    right: 0;
+.container {
+    max-width: 970px;
+    margin: 0 auto;
+}
+
+.container-full {
+    max-width: 1390px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container-teste {
+    display: flex;
+    vertical-align: bottom;
+  
+}
+
+nav ul {
+    display: flex;
+    vertical-align: bottom;
 }
 
 nav li {
@@ -58,8 +83,11 @@ nav a {
 }
 
 .principal {
+    background: #F5F5F5;
+}
+
+.principal > div {
     padding: 3em 0;
-    background: #FEFEFE;
     width: 940px;
     margin: 0 auto;
 }
@@ -87,7 +115,7 @@ nav a {
 
 .mapa {
     padding: 3em 0;
-    background: linear-gradient(#FEFEFE, #888888);
+    background: linear-gradient(#F5F5F5, #888888);
 }
 
 .mapa-conteudo {
@@ -98,4 +126,15 @@ nav a {
 .mapa p {
     margin: 0 0 2em;
     text-align: center;
+}
+
+footer {
+    background: linear-gradient(#888888, #000000);
+    text-align: center;
+    padding: 40px;
+}
+
+.copyright {
+    font-size: 15px;
+    color: #F5F5F5;
 }
