@@ -1,0 +1,77 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background: #F5F5F5;
+}
+
+.fotos {
+    display: flex;
+    vertical-align: center;
+    align-items: center;
+}
+
+.caixa {
+    width: 940px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1 {
+    width: 120px;
+}
+
+.container {
+    max-width: 970px;
+    margin: 0 auto;
+}
+
+.container-full {
+    max-width: 1390px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container-teste {
+    display: flex;
+    vertical-align: bottom;
+  
+}
+
+nav ul {
+    display: flex;
+    vertical-align: bottom;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;   
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.titulo-principal {
+    text-align: center;
+    font-size: 3em;   /* Siginifica que é 2 x o tamanho da fonte base (15px)  */
+    margin: 0 0 1em;
+    padding-top: 25px;
+    clear: left;
+    font-family: 'Dancing Script', cursive;
+}
+
+.produtos-fotos {
+    width: 20%;
+    align-items: center;
+    vertical-align: center;
+}
