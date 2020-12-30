@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background: #F5F5F5;
+    background: linear-gradient(#F5F5F5, #F8F8FF);
 }
 
 .fotos {
@@ -70,8 +70,29 @@ nav a {
     font-family: 'Dancing Script', cursive;
 }
 
-.produtos-fotos {
-    width: 20%;
-    align-items: center;
-    vertical-align: center;
+main {
+    background: linear-gradient(#F8F8FF, #FFFAFA);
+}
+
+.box {
+    width: 150px;
+    display: inline-block;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.foto-lista {
+    box-shadow: 5px 2px 5px 2px #000000;
+}
+
+footer {
+    background: linear-gradient(#FFFAFA,#EE82EE, #FF69B4);
+    text-align: center;
+    padding: 90px;
+}
+
+.copyright {
+    font-size: 15px;
+    color: #000000;
 }
