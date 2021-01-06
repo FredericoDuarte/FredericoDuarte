@@ -1,0 +1,13 @@
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\ExercicioDeFixacao01\ExercicioDeFixacao01\bin\Debug\netcoreapp3.1\ExercicioDeFixacao01.exe
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\ExercicioDeFixacao01\ExercicioDeFixacao01\bin\Debug\netcoreapp3.1\ExercicioDeFixacao01.deps.json
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\ExercicioDeFixacao01\ExercicioDeFixacao01\bin\Debug\netcoreapp3.1\ExercicioDeFixacao01.runtimeconfig.json
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\ExercicioDeFixacao01\ExercicioDeFixacao01\bin\Debug\netcoreapp3.1\ExercicioDeFixacao01.runtimeconfig.dev.json
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\ExercicioDeFixacao01\ExercicioDeFixacao01\bin\Debug\netcoreapp3.1\ExercicioDeFixacao01.dll
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\ExercicioDeFixacao01\ExercicioDeFixacao01\bin\Debug\netcoreapp3.1\ExercicioDeFixacao01.pdb
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\ExercicioDeFixacao01\ExercicioDeFixacao01\obj\Debug\netcoreapp3.1\ExercicioDeFixacao01.csprojAssemblyReference.cache
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\ExercicioDeFixacao01\ExercicioDeFixacao01\obj\Debug\netcoreapp3.1\ExercicioDeFixacao01.AssemblyInfoInputs.cache
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\ExercicioDeFixacao01\ExercicioDeFixacao01\obj\Debug\netcoreapp3.1\ExercicioDeFixacao01.AssemblyInfo.cs
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\ExercicioDeFixacao01\ExercicioDeFixacao01\obj\Debug\netcoreapp3.1\ExercicioDeFixacao01.csproj.CoreCompileInputs.cache
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\ExercicioDeFixacao01\ExercicioDeFixacao01\obj\Debug\netcoreapp3.1\ExercicioDeFixacao01.dll
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\ExercicioDeFixacao01\ExercicioDeFixacao01\obj\Debug\netcoreapp3.1\ExercicioDeFixacao01.pdb
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\ExercicioDeFixacao01\ExercicioDeFixacao01\obj\Debug\netcoreapp3.1\ExercicioDeFixacao01.genruntimeconfig.cache

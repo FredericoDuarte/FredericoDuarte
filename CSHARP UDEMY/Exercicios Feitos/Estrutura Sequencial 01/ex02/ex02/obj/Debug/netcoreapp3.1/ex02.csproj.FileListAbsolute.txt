@@ -1,0 +1,13 @@
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\Exercicios Feitos\Estrutura Sequencial 01\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.exe
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\Exercicios Feitos\Estrutura Sequencial 01\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.deps.json
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\Exercicios Feitos\Estrutura Sequencial 01\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.runtimeconfig.json
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\Exercicios Feitos\Estrutura Sequencial 01\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.runtimeconfig.dev.json
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\Exercicios Feitos\Estrutura Sequencial 01\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.dll
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\Exercicios Feitos\Estrutura Sequencial 01\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.pdb
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\Exercicios Feitos\Estrutura Sequencial 01\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.csprojAssemblyReference.cache
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\Exercicios Feitos\Estrutura Sequencial 01\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.AssemblyInfoInputs.cache
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\Exercicios Feitos\Estrutura Sequencial 01\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.AssemblyInfo.cs
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\Exercicios Feitos\Estrutura Sequencial 01\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.csproj.CoreCompileInputs.cache
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\Exercicios Feitos\Estrutura Sequencial 01\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.dll
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\Exercicios Feitos\Estrutura Sequencial 01\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.pdb
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\Exercicios Feitos\Estrutura Sequencial 01\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.genruntimeconfig.cache

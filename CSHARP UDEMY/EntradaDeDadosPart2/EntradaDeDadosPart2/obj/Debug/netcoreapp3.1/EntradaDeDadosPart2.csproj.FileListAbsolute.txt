@@ -1,0 +1,13 @@
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\EntradaDeDadosPart2\EntradaDeDadosPart2\bin\Debug\netcoreapp3.1\EntradaDeDadosPart2.exe
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\EntradaDeDadosPart2\EntradaDeDadosPart2\bin\Debug\netcoreapp3.1\EntradaDeDadosPart2.deps.json
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\EntradaDeDadosPart2\EntradaDeDadosPart2\bin\Debug\netcoreapp3.1\EntradaDeDadosPart2.runtimeconfig.json
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\EntradaDeDadosPart2\EntradaDeDadosPart2\bin\Debug\netcoreapp3.1\EntradaDeDadosPart2.runtimeconfig.dev.json
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\EntradaDeDadosPart2\EntradaDeDadosPart2\bin\Debug\netcoreapp3.1\EntradaDeDadosPart2.dll
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\EntradaDeDadosPart2\EntradaDeDadosPart2\bin\Debug\netcoreapp3.1\EntradaDeDadosPart2.pdb
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\EntradaDeDadosPart2\EntradaDeDadosPart2\obj\Debug\netcoreapp3.1\EntradaDeDadosPart2.csprojAssemblyReference.cache
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\EntradaDeDadosPart2\EntradaDeDadosPart2\obj\Debug\netcoreapp3.1\EntradaDeDadosPart2.AssemblyInfoInputs.cache
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\EntradaDeDadosPart2\EntradaDeDadosPart2\obj\Debug\netcoreapp3.1\EntradaDeDadosPart2.AssemblyInfo.cs
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\EntradaDeDadosPart2\EntradaDeDadosPart2\obj\Debug\netcoreapp3.1\EntradaDeDadosPart2.csproj.CoreCompileInputs.cache
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\EntradaDeDadosPart2\EntradaDeDadosPart2\obj\Debug\netcoreapp3.1\EntradaDeDadosPart2.dll
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\EntradaDeDadosPart2\EntradaDeDadosPart2\obj\Debug\netcoreapp3.1\EntradaDeDadosPart2.pdb
+C:\Users\TI\Documents\Udemy Cursos\CSHARP UDEMY\EntradaDeDadosPart2\EntradaDeDadosPart2\obj\Debug\netcoreapp3.1\EntradaDeDadosPart2.genruntimeconfig.cache
